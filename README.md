@@ -85,7 +85,7 @@ Webhook settings:
 
 ---
 
-## 🏗 Architecture Overview
+## 🏗 Architecture Overview :
 action-repo
 ↓
 GitHub Webhook

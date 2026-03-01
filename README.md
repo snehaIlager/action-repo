@@ -10,9 +10,9 @@ These events are consumed by a separate webhook service that stores and displays
 
 ---
 
-## 🔄 Purpose
+## 🔄 Purpose :
 
-This repository acts as the **event source** for the webhook monitoring system.
+This repository acts as the **event source** for the webhook monitoring system
 
 It is connected to a webhook endpoint configured in:
 Settings → Webhooks

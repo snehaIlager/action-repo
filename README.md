@@ -100,6 +100,6 @@ UI Dashboard
 
 ---
 
-## 👨‍💻 Maintainer
+##  Maintainer
 
 Sneha Ilager  

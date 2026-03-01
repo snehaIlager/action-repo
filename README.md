@@ -64,7 +64,7 @@ Webhook settings:
 
 ---
 
-### Test Pull Request
+### Test Pull Request: 
 1. Create a new branch
 2. Push changes
 3. Open a pull request
